@@ -1,0 +1,3 @@
+1,1,George,1,Enigma
+2,2,Alex,3,Uriasul
+3,4,Mbape,4,Amintiri

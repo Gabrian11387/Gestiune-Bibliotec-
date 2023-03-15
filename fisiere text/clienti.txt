@@ -1,0 +1,6 @@
+1,Mbappe,700,1
+4,Mbappe,500,1
+2,Mbappe,600,1
+6,Alex,20,3
+3,Messi,100,3
+
